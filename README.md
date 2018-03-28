@@ -2,7 +2,7 @@
 Created by Enzo Quesada & Leonardo Hidalgo.
 All rights reserved ®
 
-##Programa
+## Programa
 * Se abre la terminal con ctrl+alt+t.
 * Se dirige a la carpeta donde se encuentra el proyecto, comando "cd"
 
